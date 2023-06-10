@@ -3,8 +3,8 @@
     "destination":"jaipur",
     "date":"2023-04-15",
    "flight": {
-        "indigo":"$1,614",
-        "airAsia":"$1,869",
-        "vistara":"$2,133"
+        "indigo":"₹1,614",
+        "airAsia":"₹1,869",
+        "vistara":"₹2,133"
     }
 }
